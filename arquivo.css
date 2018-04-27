@@ -36,8 +36,8 @@ padding-top:18px;
 
 #header .logo
 {
-height:72px;
-width:72px;
+height:800px;
+width:200px;
 background-image:url(essa aqui.png);  //there are 5 different logos (logo1.png, logo2.png ...)
 background-repeat:no-repeat;
 float:left;
